@@ -1,4 +1,4 @@
-# Progetto-Citibike-5
+# Analisi-Multidimensionale-CitiBike-Spazio-Tempo-Utenti-e-Meteo
 Gestione e analisi di grandi quantità di dati forniti da CitibBikeNYC tramite l'utilizzo di Excel, SQL (postgreSQL), Visual Studio (Python) e Microsoft Power BI.
 
 ENG: Management and analysis of large amounts of data provided by CitiBikeNYC using Excel, SQL (PostgreSQL), Visual Studio (Python) and Microsoft Power BI.
